@@ -1,8 +1,6 @@
 # 👋 ¡Bienvenidos usuarios! al sistema de autenticación
-
 ---
 <img src="/imagen_presentacion.png" alt="Presentación" width="200" align="left" style="margin-right:20px; border-radius:15px;">  
-
 <p style="text-align: justify;">
     👋 ¡Bienvenido a este repositorio!
     Aquí encontrarás un proyecto que simula un sistema de autenticación desarrollado con
@@ -12,7 +10,6 @@
     Con este sistema podrás entender mejor la lógica detrás de la autenticación, cómo se comunican las interfaces con el servidor y cómo estructurar un flujo completo de registro e inicio de sesión que pueda aplicarse en proyectos reales.
     🚀 Te invito a explorarlo, probarlo y dejar tus comentarios o sugerencias para seguir mejorando.
 </p>
-
 ---
 
 ## 📂 Tecnologías utilizadas
