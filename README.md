@@ -22,7 +22,6 @@ Tienes dos opciones para obtener el código:
    Haz clic en el botón verde code y selecciona download zip.
 
 2. **Clonar con Git:**
-
    ```bash
    git clone https://github.com/tu-usuario/tu-repositorio.git
    ```
