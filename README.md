@@ -16,8 +16,7 @@
 * PHP
 * phpMyAdmin
 #
-
-# ▶️ Cómo usar el proyecto
+### ▶️ Cómo usar el proyecto
 Tienes dos opciones para obtener el código:
 1. **Descargar directamente:**
    Haz clic en el botón verde **Code** y selecciona **Download ZIP**.
@@ -26,7 +25,7 @@ Tienes dos opciones para obtener el código:
    git clone https://github.com/tu-usuario/tu-repositorio.git
    ```
 #
-# ⚙️ Configuración
+### ⚙️ Configuración
 1. Configura tu servidor local (XAMPP, WAMP o similar).
 2. Importa la base de datos en **phpMyAdmin**.
 3. Abre el archivo `index.html` en tu navegador.
