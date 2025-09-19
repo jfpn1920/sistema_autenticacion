@@ -8,15 +8,13 @@
     Además de servir como material educativo, este proyecto puede ser un punto de partida para construir sistemas más complejos que integren seguridad, manejo de sesiones, validación de datos y conexión con bases de datos. La idea es que puedas explorar, modificar y experimentar con el código para fortalecer tus conocimientos en desarrollo web y en la gestión de usuarios, con este sistema podrás entender mejor la lógica detrás de la autenticación, cómo se comunican las interfaces con el servidor y cómo estructurar un flujo completo de registro e inicio de sesión que pueda aplicarse en proyectos reales.
 </p>
 
-## 🚀 Te invito a explorarlo, probarlo y dejar tus comentarios o sugerencias para seguir mejorando.
-
-## 📂 Tecnologías utilizadas
+### 📂 Tecnologías utilizadas
 * HTML
 * CSS
 * JavaScript
 * PHP
 * phpMyAdmin
----
+
 ## ▶️ Cómo usar el proyecto
 
 ### 📥 Descargar el proyecto
@@ -37,5 +35,3 @@ Tienes dos opciones para obtener el código:
 1. Configura tu servidor local (XAMPP, WAMP o similar).
 2. Importa la base de datos en **phpMyAdmin**.
 3. Abre el archivo `index.html` en tu navegador.
-
----
