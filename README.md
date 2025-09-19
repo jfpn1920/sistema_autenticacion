@@ -1,4 +1,4 @@
-# 👋 ¡Bienvenidos usuarios!
+👋 ¡Bienvenidos usuarios!
 ---
 <img src="/imagen_presentacion.png" alt="Presentación" width="200" align="left" style="margin-right:20px; border-radius:15px;">  
 
