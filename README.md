@@ -9,13 +9,13 @@
 </p>
 
 #
-
 ### 📂 Tecnologías utilizadas
 * HTML
 * CSS
 * JavaScript
 * PHP
 * phpMyAdmin
+#
 
 ## ▶️ Cómo usar el proyecto
 
