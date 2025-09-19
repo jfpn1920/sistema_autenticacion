@@ -1,6 +1,6 @@
-# 👋 Bienvenidos usuarios
+# Bienvenidos usuarios
+<div style="display: flex; align-items: center; gap: 20px;"> <img src="/imagen_presentacion.png" alt="Presentación" width="220" style="border-radius:15px;"> <div> <h2>Bienvenidos usuarios</h2> 👋 ¡Bienvenido a este repositorio! <br><br> Aquí encontrarás un proyecto que simula un <b>sistema de autenticación</b> desarrollado con <b>HTML, CSS, JavaScript, PHP y phpMyAdmin</b>. <br><br> El objetivo es mostrar de manera práctica cómo funciona un flujo básico de <b>registro e inicio de sesión</b> para usuarios en aplicaciones web. Este trabajo está pensado como una <b>guía de aprendizaje</b> y un <b>ejemplo sencillo</b> para quienes deseen implementar mecanismos similares en sus propios proyectos. <br><br> 🚀 Te invito a explorarlo, probarlo y dejar tus comentarios o sugerencias para seguir mejorando. </div> </div>
 
-<img src="/imagen_presentacion.png" alt="Presentación" width="200" style="border-radius:15px;"> Aquí encontrarás un proyecto que simula un **sistema de autenticación** desarrollado con **HTML, CSS, JavaScript, PHP y phpMyAdmin**.<br><br>El objetivo es mostrar de manera práctica cómo funciona un flujo básico de **registro e inicio de sesión** para usuarios en aplicaciones web. Este trabajo está pensado como una **guía de aprendizaje** y un **ejemplo sencillo** para quienes deseen implementar mecanismos similares en sus propios proyectos.<br><br>🚀 **Te invito a explorarlo, probarlo y dejar tus comentarios o sugerencias para seguir mejorando.** 
 ---
 
 ## 📂 Tecnologías utilizadas
