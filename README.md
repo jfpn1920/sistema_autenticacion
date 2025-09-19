@@ -1,6 +1,13 @@
 # 👋 ¡Bienvenidos al repositorio!
+
+
+
 <img src="/imagen_presentacion.png" alt="Presentación" width="200" align="left" style="margin-right:20px; border-radius:15px;">  
-## Bienvenidos usuarios
+
+
+
+👋 ¡Bienvenido a este repositorio!
+
 Aquí encontrarás un proyecto que simula un **sistema de autenticación** desarrollado con
 **HTML, CSS, JavaScript, PHP y phpMyAdmin**.
 
