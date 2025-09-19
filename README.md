@@ -20,8 +20,12 @@
 Tienes dos opciones para obtener el código:
 1. **Descargar directamente:**
    Haz clic en el botón verde code y selecciona download zip.
+
 2. **Clonar con Git:**
-   **git clone https://github.com/tu-usuario/tu-repositorio.git**
+
+   ```bash
+   git clone https://github.com/tu-usuario/tu-repositorio.git
+   ```
 #
 ### ⚙️ Configuración
 1. Configura tu servidor local **(xampp)**.
