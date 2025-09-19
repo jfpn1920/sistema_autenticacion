@@ -1,21 +1,20 @@
-👋 ¡Bienvenidos usuarios!
+# 👋 ¡Bienvenidos usuarios! al sistema de autenticación
+
 ---
 <img src="/imagen_presentacion.png" alt="Presentación" width="200" align="left" style="margin-right:20px; border-radius:15px;">  
 
-👋 ¡Bienvenido a este repositorio!
-
-Aquí encontrarás un proyecto que simula un sistema de autenticación desarrollado con
-HTML, CSS, JavaScript, PHP y phpMyAdmin.
-
-El objetivo es mostrar de manera práctica cómo funciona un flujo básico de registro e inicio de sesión para usuarios en aplicaciones web. Este trabajo está pensado como una guía de aprendizaje y un ejemplo sencillo para quienes deseen implementar mecanismos similares en sus propios proyectos.
-
-Además de servir como material educativo, este proyecto puede ser un punto de partida para construir sistemas más complejos que integren seguridad, manejo de sesiones, validación de datos y conexión con bases de datos. La idea es que puedas explorar, modificar y experimentar con el código para fortalecer tus conocimientos en desarrollo web y en la gestión de usuarios.
-
-Con este sistema podrás entender mejor la lógica detrás de la autenticación, cómo se comunican las interfaces con el servidor y cómo estructurar un flujo completo de registro e inicio de sesión que pueda aplicarse en proyectos reales.
-
-🚀 Te invito a explorarlo, probarlo y dejar tus comentarios o sugerencias para seguir mejorando.
+<p style="text-align: justify;">
+    👋 ¡Bienvenido a este repositorio!
+    Aquí encontrarás un proyecto que simula un sistema de autenticación desarrollado con
+    HTML, CSS, JavaScript, PHP y phpMyAdmin.
+    El objetivo es mostrar de manera práctica cómo funciona un flujo básico de registro e inicio de sesión para usuarios en aplicaciones web. Este trabajo está pensado como una guía de aprendizaje y un ejemplo sencillo para quienes deseen implementar mecanismos similares en sus propios proyectos.
+    Además de servir como material educativo, este proyecto puede ser un punto de partida para construir sistemas más complejos que integren seguridad, manejo de sesiones, validación de datos y conexión con bases de datos. La idea es que puedas explorar, modificar y experimentar con el código para fortalecer tus conocimientos en desarrollo web y en la gestión de usuarios.
+    Con este sistema podrás entender mejor la lógica detrás de la autenticación, cómo se comunican las interfaces con el servidor y cómo estructurar un flujo completo de registro e inicio de sesión que pueda aplicarse en proyectos reales.
+    🚀 Te invito a explorarlo, probarlo y dejar tus comentarios o sugerencias para seguir mejorando.
+</p>
 
 ---
+
 ## 📂 Tecnologías utilizadas
 * HTML
 * CSS
