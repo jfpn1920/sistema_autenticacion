@@ -1,5 +1,5 @@
 # 👋 ¡Bienvenidos usuarios! al sistema de autenticación
-<img src="/imagen_presentacion.png" alt="Presentación" width="200" align="left" style="margin-right:20px; border-radius:15px; border-radius: 5px;">  
+<img src="/imagen_presentacion.png" alt="Presentación" width="200" align="left" style="margin-right:20px; border-radius:15px;">  
 <p style="text-align: justify;">
     ¡Bienvenido a este repositorio!
     Aquí encontrarás un proyecto que simula un sistema de autenticación desarrollado con <b>HTML, CSS, JavaScript, PHP y phpMyAdmin</b>, el objetivo es mostrar de manera práctica cómo funciona un flujo básico de registro e inicio de sesión para usuarios en aplicaciones web Este trabajo está pensado como una guía de aprendizaje y un ejemplo sencillo para quienes deseen implementar mecanismos similares en sus propios proyectos.
