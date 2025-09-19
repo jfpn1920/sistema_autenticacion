@@ -5,7 +5,7 @@
     Aquí encontrarás un proyecto que simula un sistema de autenticación desarrollado con HTML, CSS, JavaScript, PHP y phpMyAdmin, el objetivo es mostrar de manera práctica cómo funciona un flujo básico de registro e inicio de sesión para usuarios en aplicaciones web Este trabajo está pensado como una guía de aprendizaje y un ejemplo sencillo para quienes deseen implementar mecanismos similares en sus propios proyectos.
 </p>
 <p style="text-align: justify;">
-    Además de servir como material educativo, este proyecto puede ser un punto de partida para construir sistemas más complejos que integren seguridad, manejo de sesiones, validación de datos y conexión con bases de datos. La idea es que puedas explorar, modificar y experimentar con el código para fortalecer tus conocimientos en desarrollo web y en la gestión de usuarios, con este sistema podrás entender mejor la lógica detrás de la autenticación, cómo se comunican las interfaces con el servidor y cómo estructurar un flujo completo de registro e inicio de sesión que pueda aplicarse en proyectos reales.
+    Además de servir como material educativo, este proyecto puede ser un punto de partida para construir sistemas más complejos que integren seguridad, manejo de sesiones, validación de datos y conexión con bases de datos. La idea es que puedas explorar, modificar y experimentar con el código para fortalecer tus conocimientos en desarrollo web y en la gestión de usuarios, con este sistema podrás entender mejor la lógica detrás de la autenticación, cómo se comunican en registro e inicio de sesión para proyectos reales.
 </p>
 
 #
