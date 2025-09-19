@@ -1,6 +1,3 @@
-# Bienvenidos usuarios
-# 👋 ¡Bienvenidos al repositorio!
-
 # 👋 Bienvenidos usuarios
 
 <img src="/imagen_presentacion.png" alt="Presentación" width="200" align="left" style="margin-right:20px; border-radius:15px;">  
@@ -15,7 +12,6 @@ Aquí encontrarás un proyecto que simula un **sistema de autenticación** desar
 El objetivo es mostrar de manera práctica cómo funciona un flujo básico de **registro e inicio de sesión** para usuarios en aplicaciones web. Este trabajo está pensado como una **guía de aprendizaje** y un **ejemplo sencillo** para quienes deseen implementar mecanismos similares en sus propios proyectos.
 
 🚀 **Te invito a explorarlo, probarlo y dejar tus comentarios o sugerencias para seguir mejorando.**
-
 
 ---
 
