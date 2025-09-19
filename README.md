@@ -8,6 +8,8 @@
     Además de servir como material educativo, este proyecto puede ser un punto de partida para construir sistemas más complejos que integren seguridad, manejo de sesiones, validación de datos y conexión con bases de datos. La idea es que puedas explorar, modificar y experimentar con el código para fortalecer tus conocimientos en desarrollo web y en la gestión de usuarios, con este sistema podrás entender mejor la lógica detrás de la autenticación, cómo se comunican las interfaces con el servidor y cómo estructurar un flujo completo de registro e inicio de sesión que pueda aplicarse en proyectos reales.
 </p>
 
+#
+
 ### 📂 Tecnologías utilizadas
 * HTML
 * CSS
