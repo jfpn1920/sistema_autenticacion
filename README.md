@@ -26,6 +26,6 @@ Tienes dos opciones para obtener el código:
    ```
 #
 ### ⚙️ Configuración
-1. Configura tu servidor local (XAMPP, WAMP o similar).
+1. Configura tu servidor local **(xampp)**.
 2. Importa la base de datos en **phpMyAdmin**.
-3. Abre el archivo `index.html` en tu navegador.
+3. Abre el archivo **index.html** en tu navegador.
