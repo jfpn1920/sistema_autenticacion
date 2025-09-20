@@ -1,0 +1,147 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #FFDEE9 0%, #B5FFFC 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+/*-----------------------------*/
+/*--|estilo_base_registrarse|--*/
+/*-----------------------------*/
+.register-container {
+    background: #fff;
+    padding: 40px 35px;
+    border-radius: 16px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+    width: 500px; 
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+.register-container .icon {
+    font-size: 65px;
+    color: #28a745;
+    margin-bottom: 15px;
+}
+.register-container h2 {
+    margin-bottom: 25px;
+    color: #222;
+    font-size: 22px;
+    font-weight: bold;
+}
+.input-group {
+    text-align: left;
+    margin-bottom: 18px;
+    width: 100%;
+    position: relative;
+}
+.input-group label {
+    font-size: 14px;
+    font-weight: 600;
+    color: #444;
+    display: block;
+    margin-bottom: 6px;
+}
+.input-group input {
+    width: 100%;
+    padding: 12px;
+    padding-right: 40px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    outline: none;
+    transition: border 0.3s ease, box-shadow 0.3s ease;
+}
+.input-group input:focus {
+    border: 1px solid #28a745;
+    box-shadow: 0 0 5px rgba(40,167,69,0.3);
+}
+.input-group select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    outline: none;
+    transition: border 0.3s ease, box-shadow 0.3s ease;
+}
+.input-group select:focus {
+    border: 1px solid #28a745;
+    box-shadow: 0 0 5px rgba(40,167,69,0.3);
+}
+.form-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 20px 25px;
+    margin-bottom: 20px;
+}
+.form-grid .input-group {
+    margin-bottom: 0; 
+    width: 100%; 
+}
+.form-grid .input-group input,
+.form-grid .input-group select {
+    width: 100%;
+    box-sizing: border-box;
+}
+.input-group .fa-eye {
+    position: absolute;
+    right: 12px;
+    top: 38px;
+    color: #666;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+.input-group .fa-eye:hover {
+    color: #28a745;
+}
+.policies {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    margin: 15px 0;
+    text-align: left;
+    color: #333;
+}
+.policies input {
+    margin-right: 8px;
+}
+.btn {
+    background: #28a745;
+    color: white;
+    border: none;
+    width: 100%;
+    padding: 12px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+.btn:hover {
+    background: #218838;
+    transform: scale(1.02);
+}
+.social-login {
+    display: flex;
+    justify-content: center;
+    gap: 18px;
+}
+.social-login a {
+    font-size: 20px;
+    color: white;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s, opacity 0.3s;
+}
+.social-login a:hover {
+    transform: scale(1.1);
+    opacity: 0.9;
+}
+.google { background: #db4437; text-decoration: none; }
+.facebook { background: #3b5998; text-decoration: none; }
+.twitter { background: #1da1f2; text-decoration: none; }
+.instagram { background: #e4405f; text-decoration: none; }
