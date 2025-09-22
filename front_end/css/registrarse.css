@@ -46,7 +46,7 @@ body {
 .input-group input {
     width: 100%;
     padding: 12px;
-    padding-right: 40px; /* Espacio para el ícono */
+    padding-right: 40px;
     border: 1px solid #ccc;
     border-radius: 8px;
     outline: none;
@@ -83,8 +83,6 @@ body {
     width: 100%;
     box-sizing: border-box;
 }
-
-/* Íconos de mostrar/ocultar contraseña */
 .input-group .fa-eye,
 .input-group .fa-eye-slash {
     position: absolute;
@@ -92,12 +90,10 @@ body {
     top: 70%;
     transform: translateY(-50%);
 }
-
 .input-group .fa-eye:hover,
 .input-group .fa-eye-slash:hover {
     color: #28a745;
 }
-
 .policies {
     display: flex;
     align-items: center;

@@ -42,26 +42,30 @@ body {
   color: rgb(68, 68, 68);
 }
 .input-group input {
-  width: 86%;
+  width: 100%;               /* ✅ Que ocupe todo el ancho */
   padding: 12px;
-  padding-right: 40px;
+  padding-right: 40px;       /* ✅ Espacio para el icono */
   border-radius: 5px;
   border: 1px solid rgb(204, 204, 204);
   outline: none;
+  box-sizing: border-box;    /* ✅ Para que padding no rompa el ancho */
 }
 .input-group input:focus {
   border: 1px solid rgb(0, 123, 255);
   box-shadow: 0 0 5px rgba(0, 123, 255, 0.3);
 }
-.input-group .fa-eye {
+.input-group .fa-eye,
+.input-group .fa-eye-slash {
   right: 12px;
-  top: 38px;
+  top: 70%;                  /* ✅ Centrado vertical */
+  transform: translateY(-50%);
   position: absolute;
   cursor: pointer;
   transition: color 0.3s;
   color: rgb(102, 102, 102);
 }
-.input-group .fa-eye:hover {
+.input-group .fa-eye:hover,
+.input-group .fa-eye-slash:hover {
   color: rgb(0, 123, 255);
 }
 .options {
